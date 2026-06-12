@@ -26,14 +26,19 @@ Your password
 Your email
 
 Any private Discord data outside of what the bot needs
+
 3. Why we collect it
 
 We only store data so the bot can function properly. For example:
 
 Saving your money and progress in the economy
+
 Tracking stock trades and portfolio changes
+
 Making sure commands like !daily, !pay, and !gamble work correctly
+
 Preventing abuse or exploits in the system
+
 
 Without storing this data, the bot wouldn’t be able to remember anything between sessions.
 
