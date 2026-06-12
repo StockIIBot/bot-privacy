@@ -78,4 +78,4 @@ This policy might change from time to time. If you keep using the bot after chan
 
 10. Contact
 
-If you have questions or want your data removed manually, you can contact the developer through the support server or direct Discord contact (if available).
+If you have questions or want your data removed manually, you can create a ticket within the support server, although using the delete command is sufficient for most purposes.
