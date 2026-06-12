@@ -20,8 +20,11 @@ Basic command usage (mainly for debugging and preventing abuse)
 We don’t collect anything personal like:
 
 Your messages
+
 Your password
+
 Your email
+
 Any private Discord data outside of what the bot needs
 3. Why we collect it
 
